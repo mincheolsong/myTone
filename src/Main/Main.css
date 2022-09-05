@@ -1,0 +1,88 @@
+.MainImg{
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(20%);
+    margin:0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.MainSubImg{
+    width: 500px;
+}
+  
+.MainText{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    margin-bottom: 10px;
+}
+  
+.TestBtn{
+    text-align: center;
+}
+  
+.PersonalIntroduceImg{
+    height: 300px;
+    width: 400px;
+  
+    position: relative;
+    left: 70px;
+    top: 100px;
+}
+  
+.SupportInfoTop{
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+  
+.SupportInfoTitle{
+    font-size: 40px;
+    color: rgb(47, 46, 46);
+    font-weight: bold;
+    margin-bottom: 17px;
+}
+  
+.SupportInfoBG{
+    height: 750px;
+    background: repeating-linear-gradient(45deg, #e3e3e3 , #e3e3e3 0.5px, #FFF0F5 0, #FFF0F5 20px); 
+}
+  
+.SupportInfoText{
+    margin-bottom: 70px;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+.service_list_BG{
+    height: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ul.service_list_container{
+    list-style: none;
+}
+
+li.list_item{
+    float: left;
+    margin-left: 65px;
+    margin-right: 65px;
+    text-align: center;
+}
+
+.sub_icon{
+    width: 60px;
+    margin-bottom: 35px;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+.userInfoUpdate_BG{
+    text-align: center;
+    width: 27vw;
+    margin:0 auto;
+    min-height: 50vh;
+    margin-top: 130px;
+}
+.signUp td{
+    padding-bottom: 15px;
+}
+
+.update_title{
+    font-family: 'Do Hyeon', sans-serif;
+    margin-bottom: 30px;
+}

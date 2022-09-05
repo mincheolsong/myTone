@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+.ImgUpload_BG{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ImgUpload_Title{
+    font-family: 'Do Hyeon', sans-serif;
+    margin-bottom: 120px;
+    font-weight: 100;
+}
+
+.sub_text{
+    margin-top: 70px;
+    font-size: 13px;
+}

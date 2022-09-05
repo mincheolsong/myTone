@@ -1,0 +1,10 @@
+.detail-top{
+    width: 100vw;
+    padding: 17vh 20vw 5vh 20vw;
+    min-width: 852px;
+}
+.header-detail{
+    display: flex;
+    justify-content: space-around;
+    width:250px;
+}

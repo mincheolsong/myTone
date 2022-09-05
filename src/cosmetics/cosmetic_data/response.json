@@ -1,0 +1,77 @@
+{
+  "count": 103,
+  "next": "http://127.0.0.1:8000/color/4/cosmetic/?limit=10&offset=10",
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "name": "에뛰드 플레이 컬러 아이즈 섀도우 팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail10.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Frs_quotation_api%2F7p01oqks%2F5e7851bf262a43e5a61737a4f55dbd6f.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbJfH4",
+      "color": 4
+    },
+    {
+      "id": 2,
+      "name": "에뛰드 플레이 컬러 아이즈 팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail9.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Frs_quotation_api%2Fnxrvmam5%2F635d82f416c44b859f2f235536d50a6c.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbJhxl",
+      "color": 4
+    },
+    {
+      "id": 3,
+      "name": "에뛰드 플레이 컬러 아이즈 팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail6.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Frs_quotation_api%2F3sri7dau%2F996d8761832e4b42abeb08905089f377.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbxjX1",
+      "color": 4
+    },
+    {
+      "id": 4,
+      "name": "에뛰드 플레이 컬러 아이즈 미니 오브제 아이팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail10.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Fretail%2Fimages%2F517438996062417-7cadcfb8-91a0-4e2d-a2e5-2dcab942ba24.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbxkey",
+      "color": 4
+    },
+    {
+      "id": 5,
+      "name": "에뛰드 플레이 컬러 아이즈 미니 오브제 아이팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail7.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Fretail%2Fimages%2F517518938555760-028e4b97-4c4b-42e2-a62a-524b035c1ec3.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbxj6Z",
+      "color": 4
+    },
+    {
+      "id": 6,
+      "name": "에뛰드 플레이 톤 아이 팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail8.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Frs_quotation_api%2F0rg2y3uu%2F316ece495f5b4acca594a5810d0e6d9e.jpg%22&type=ff120",
+      "url": "https://link.coupang.com/a/sy2UY",
+      "color": 4
+    },
+    {
+      "id": 7,
+      "name": "에뛰드하우스 플레이 컬러 아이즈 섀도우 팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail8.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Fproduct%2Fimage%2Fvendoritem%2F2016%2F05%2F13%2F3017954805%2F851e6ec4-ae59-463f-947b-fee6565fdcde.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbxkcQ",
+      "color": 4
+    },
+    {
+      "id": 8,
+      "name": "페리페라 올테이크 무드 아이팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail9.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Fvendor_inventory%2Fec78%2F8407e3bb326222e4193789c6f2f47ed3a28a0925682ac58854e9fc23bf9a.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbJfwi",
+      "color": 4
+    },
+    {
+      "id": 9,
+      "name": "클리오 프로 아이 팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail10.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Fretail%2Fimages%2F4193565905799-ffe356b9-9545-41de-81fa-f1b310f86976.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbJfm1",
+      "color": 4
+    },
+    {
+      "id": 10,
+      "name": "에스쁘아 리얼 아이팔레트",
+      "image": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fthumbnail10.coupangcdn.com%2Fthumbnails%2Fremote%2F230x230ex%2Fimage%2Fretail%2Fimages%2F2021%2F02%2F10%2F10%2F6%2F02adca8a-ad20-4784-92aa-ad8642aa29ee.jpg%22&type=ff120",
+      "url": "https://coupa.ng/cbxj3C",
+      "color": 4
+    }
+  ]
+}

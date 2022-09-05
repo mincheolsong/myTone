@@ -1,0 +1,60 @@
+.category-top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+
+.category-list{
+    margin-bottom : 40px;
+    display: inline-block;
+    cursor : pointer;
+    
+    transition: all 0.3s ease-out;
+}
+.category-list:hover{
+    transform: scale(1.1);
+}
+
+.openButton-container{
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+.openButton{
+    overflow: hidden;
+    display: inline-block;
+    width: 22px;
+    height: 49px;
+    font-size: 0;
+    color: transparent;
+    vertical-align: top;
+    border:none;
+    background-image:url("./../../img/folding-button1.png")
+}
+.closeButton-container{
+    position: absolute;
+    top: 50%;
+    left:100%;
+    transform: translateY(-50%);
+    z-index: 10;
+}
+.closeButton{
+    overflow: hidden;
+    display: inline-block;
+    width: 22px;
+    height: 49px;
+    font-size: 0;
+    color: transparent;
+    vertical-align: top;
+    border:none;
+    background-image:url("./../../img/folding-button2.png")
+}
+
+.start{
+    opacity : 0;
+}
+.end{
+    opacity: 1;
+    transition: opacity 0.5s;
+}

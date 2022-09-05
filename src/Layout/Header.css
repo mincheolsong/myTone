@@ -1,0 +1,19 @@
+.Title{
+    height: 70px;
+    text-align: center;
+    background-color: rgb(47, 46, 46);
+    color: white;
+    line-height: 65px;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.ProjectName{
+    position: relative;
+    left: 70px;
+}
+
+.LogMenu{
+    position: relative;
+    left: 600px;
+}

@@ -1,0 +1,18 @@
+.post-top{
+    width: 42vw;
+    min-height: 65vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.post-header{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}

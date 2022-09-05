@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+.userInfo_container{
+    height: 500px;
+    margin: 100px 150px 55px 150px;
+    text-align: center;
+}
+
+.userInfo_item{
+    text-align: center;
+    width: 500px;
+    margin : 0 auto;
+    border: 1px solid #dddddd;
+    padding: 35px;
+    margin-top:30px;
+}
+
+.user_name_title{
+    font-family: 'Do Hyeon', sans-serif;
+}

@@ -1,0 +1,41 @@
+.winter_title_BG {
+    height: 600px;
+    text-align: center;
+}
+
+.winter_content_BG{
+    height:1000px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.result_title{
+    display: inline;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.winter_Img{
+    height: 350px;
+    margin-bottom: 30px;
+    width: 320px;
+}
+
+.title{
+    margin: 30px;
+}
+
+.share_btn{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.cosmetic_btn{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+h4.sub_title{
+    color: #CD5C5C;
+    font-weight: bold;
+}
